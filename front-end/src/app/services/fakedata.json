@@ -1,0 +1,35 @@
+{
+    "id": "123333" , 
+    "name" : "Zied Dammak",
+    "birthday" : "1/1/1880",
+    "work" : "IT Engineering Student",
+    "skills": "Web development , IOT , AI",
+    "stages" : [
+        {   
+            "id": "12",
+            "name" : "Stage d’ingénieur chez Acteol",
+            "project_name":" Facebook Reviews Management System",
+            "description" :"Solution destinée aux grandes entreprises pour gérer leurs E-reputation.",
+            "technologies" : ".net(mvc), entity framework, Kendo UI, FacebookApi,Python.",
+            "photo": "https://static.wixstatic.com/media/1253e3_13cc9af793d840c3b18b7da790c4ce4e~mv2.png"
+        },
+        {   
+            "id": "13",
+            "name" : "Stage chez Sagem’Com",
+            "project_name":" Localisation des objets IoT en se basant sur la méthode de triangulation.",
+            "description" :"Elaboration d’un modéle mathématique convenable à la localisation à travers le réseau Lora.",
+            "technologies" : "Angular , expressjs , MongoDB, Python",
+            "photo":"https://www.keejob.com/media/recruiter/recruiter_1220/logo-sagemcom-20141124-093507.jpg"
+        },
+        {   
+            "id": "14",
+            "name" : "Stage chez l’opérateur Tunisie Telecom",
+            "project_name":" ---",
+            "description" :"supervision, déploiement, et mise à jours des logiciels.",
+            "technologies" : "---",
+            "photo":"https://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/LOGO_TT_.jpg/1200px-LOGO_TT_.jpg"
+        }
+    ]
+}
+
+
