@@ -7,4 +7,4 @@
 * `npm install`in both folders
 ## Run Server
 * `node main` in the server folder
-* `ng serve` in the front-end folder 
+* `ng serve --port 4322` in the front-end folder 
